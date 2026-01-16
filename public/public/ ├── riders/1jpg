@@ -1,0 +1,53 @@
+<h2>Rider Gallery / მძღოლების გალერეა</h2>
+
+<div class="grid">
+
+  <div class="card">
+    <img src="riders/rider1.jpg" alt="Rider 1">
+    <div class="cap">
+      <b>Delivery Operations</b>
+      <div class="muted">მიწოდების ოპერაციები</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="riders/rider2.jpg" alt="Rider 2">
+    <div class="cap">
+      <b>Fleet Support</b>
+      <div class="muted">ფლოტის მხარდაჭერა</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="riders/rider3.jpg" alt="Rider 3">
+    <div class="cap">
+      <b>Platform Operations</b>
+      <div class="muted">პლატფორმის ოპერაციები</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="riders/rider4.jpg" alt="Rider 4">
+    <div class="cap">
+      <b>Courier Services</b>
+      <div class="muted">კურიერის სერვისები</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="riders/rider5.jpg" alt="Rider 5">
+    <div class="cap">
+      <b>Team Coordination</b>
+      <div class="muted">გუნდური კოორდინაცია</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="riders/rider6.jpg" alt="Rider 6">
+    <div class="cap">
+      <b>Taxi & Transport</b>
+      <div class="muted">ტაქსი და ტრანსპორტი</div>
+    </div>
+  </div>
+
+</div>
